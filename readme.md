@@ -1,4 +1,4 @@
-# TypeScript Learning & Revision Hub
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript Logo"> TypeScript Learning & Revision Hub
 
 A structured, example-driven reference repository designed for mastering TypeScript from core primitives to advanced type mechanics.
 
