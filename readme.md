@@ -11,6 +11,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 | **01. Core Fundamentals** | Inference, Primitives, `void`/`never`/`unknown`, Objects, Literals, Custom Guards, `as const`, Unions | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/TypeScript_Core_Fundamentals.md) |
 | **02. Intermediate Types & Functions** | Intersections (`&`), Array syntax, `readonly` arrays, Tuples, Parameter annotations, Optional/Default values | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/TypeScript_Intermediate_Types_%26_Functions.md) |
 | **03. Advanced Functions & Tuples** | Rest parameters, Tuple rest types, Array vs `as const` spreading, Explicit return contracts, Async inference | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/Typescript_Advanced_Functions_%26_Rest_Tuples.md) |
+| **04. TypeScript Interfaces, Type Aliases & Dictionaries** | Interface Fundamentals & Inheritance, Type Aliases & Compositions, Interfaces vs. Type Aliases, Index Signatures & Record Types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Interfaces_Type_Aliases_%26_Dictionaries.md) |
 
 ---
 
