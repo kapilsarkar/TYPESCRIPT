@@ -14,6 +14,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 | **04. TypeScript Interfaces, Type Aliases & Dictionaries** | Interface Fundamentals & Inheritance, Type Aliases & Compositions, Interfaces vs. Type Aliases, Index Signatures & Record Types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Interfaces_Type_Aliases_%26_Dictionaries.md) |
 | **05. Type Narrowing & Safe Property Access** | Type Narrowing, Safe Property Access, Runtime Checks, Type Guards | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Type_Narrowing_%26_Safe_Property_Access.md) |
 | **06. TypeScript Generics & Constraints** | Generic Type Parameters (`<T>`), Generic Functions & Type Inference, Generic Collections, Generic Return Shapes, Structural Constraints (`T extends`), Key-Lookup Constraints (`K extends keyof T`), `any` vs `unknown` vs Generics  | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Generics_%26_Constarints.md) |
+| **07. TypeScript Type-Safe Property Accessors** | Indexed Access Types (`T[K]`), `keyof` Type & Key Unions, Key Constraints (`K extends keyof T`), Optional Property Types, Type-Safe Dynamic Getters & Setters | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Type_Safe_Property_Accessors.md) |
 
 ---
 
