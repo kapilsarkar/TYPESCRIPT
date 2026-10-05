@@ -15,6 +15,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 | **05. Type Narrowing & Safe Property Access** | Type Narrowing, Safe Property Access, Runtime Checks, Type Guards | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Type_Narrowing_%26_Safe_Property_Access.md) |
 | **06. Generics & Constraints** | Generic Type Parameters (`<T>`), Generic Functions & Type Inference, Generic Collections, Generic Return Shapes, Structural Constraints (`T extends`), Key-Lookup Constraints (`K extends keyof T`), `any` vs `unknown` vs Generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Generics_%26_Constarints.md) |
 | **07. Type-Safe Property Accessors** | Indexed Access Types (`T[K]`), `keyof` Type & Key Unions, Key Constraints (`K extends keyof T`), Optional Property Types, Type-Safe Dynamic Getters & Setters | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Type_Safe_Property_Accessors.md) |
+| **08. TypeScript Utility Types** | `Partial<T>`, `Required<T>`, `Readonly<T>`, `Pick<T, K>`, `Omit<T, K>`, `Record<K, V>`, Shallow Type Transformations | **[Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Utility_Types.md)** |
 
 ---
 
