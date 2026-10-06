@@ -16,6 +16,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 | **06. Generics & Constraints** | Generic Type Parameters (`<T>`), Generic Functions & Type Inference, Generic Collections, Generic Return Shapes, Structural Constraints (`T extends`), Key-Lookup Constraints (`K extends keyof T`), `any` vs `unknown` vs Generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Generics_%26_Constarints.md) |
 | **07. Type-Safe Property Accessors** | Indexed Access Types (`T[K]`), `keyof` Type & Key Unions, Key Constraints (`K extends keyof T`), Optional Property Types, Type-Safe Dynamic Getters & Setters | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Type_Safe_Property_Accessors.md) |
 | **08. TypeScript Utility Types** | `Partial<T>`, `Required<T>`, `Readonly<T>`, `Pick<T, K>`, `Omit<T, K>`, `Record<K, V>`, Shallow Type Transformations | **[Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Utility_Types.md)** |
+| **09. TypeScript Function & Class Utility Types** | `ReturnType<T>`, `Parameters<T>`, `InstanceType<T>`, `ConstructorParameters<T>`, Function Type Extraction, Constructor & Instance Type Extraction, `typeof` for Value-to-Type Conversion | **[Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TypeScript_Function_%26_Class_Utility_Types.md)** |
 
 ---
 
