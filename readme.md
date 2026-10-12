@@ -30,6 +30,7 @@ Additional practice files for reinforcing TypeScript fundamentals, understanding
 | **02. TypeScript `any` vs. `unknown`** | Differences between `any` and `unknown`, type safety, narrowing, and safer handling of unknown values | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Typescript_Any_VS_Unknown.md) |
 | **03. TypeScript Functions** | Function parameters, return types, optional and default parameters, and function typing | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Functions.md) |
 | **04.Types-and-Interfaces** | type, interface, extension, intersection | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Types_%26_Interfaces.md) |
+| **05.Arrays_Tuples** | arrays,tuples | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Arrays_Tuples.md) |
 
 ---
 
