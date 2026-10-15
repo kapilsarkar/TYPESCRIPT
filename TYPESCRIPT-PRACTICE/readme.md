@@ -13,4 +13,5 @@ Additional practice files for reinforcing TypeScript fundamentals, understanding
 | **05.Arrays_Tuples** | arrays,tuples | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Arrays_Tuples.md) |
 | **06.Enums** | Type Script, Enums | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Enums.md) |
 
+
 ---
