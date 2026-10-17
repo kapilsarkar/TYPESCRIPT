@@ -7,7 +7,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 ## 📚 Study Guides & Curriculum
 
 | **Topic** | **Covered Concepts** | **Link** |
-|:---|:---|:---|
+| :--- | :--- | :--- |
 | **01. Core Fundamentals** | Inference, Primitives, `void` / `never` / `unknown`, Objects, Literals, Custom Guards, `as const`, Unions | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/TypeScript_Core_Fundamentals.md) |
 | **02. Intermediate Types & Functions** | Intersections (`&`), Array syntax, `readonly` arrays, Tuples, Parameter annotations, Optional/Default values | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/TypeScript_Intermediate_Types_%26_Functions.md) |
 | **03. Advanced Functions & Tuples** | Rest parameters, Tuple rest types, Array vs. `as const` spreading, Explicit return contracts, Async inference | [Open Guide](https://github.com/kapilsarkar/REACT-NEXTJS-LEARNING-WITH-AI-PROJECTS/blob/main/TYPESCRIPT/Typescript_Advanced_Functions_%26_Rest_Tuples.md) |
@@ -25,7 +25,7 @@ A structured, example-driven reference repository designed for mastering TypeScr
 Additional practice files for reinforcing TypeScript fundamentals, understanding safe typing, and working with functions.
 
 | **Topic** | **Covered Concepts** | **Link** |
-|:---|:---|:---|
+| :--- | :--- | :--- |
 | **01. TypeScript Fundamentals** | Core TypeScript concepts, type annotations, inference, and fundamental types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Fundamentals.md) |
 | **02. TypeScript `any` vs. `unknown`** | Differences between `any` and `unknown`, type safety, narrowing, and safer handling of unknown values | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Typescript_Any_VS_Unknown.md) |
 | **03. TypeScript Functions** | Function parameters, return types, optional and default parameters, and function typing | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Functions.md) |
@@ -82,7 +82,7 @@ npx ts-node 01_inference.ts
 
 ## 📈 Learning Approach
 
-**Learn → Code → Practice → Create Revision Guide → Review → Move Forward**
+- **Learn → Code → Practice → Create Revision Guide → Review → Move Forward**
 
 Each topic is practiced through TypeScript examples and summarized in revision guides for future reference.
 
