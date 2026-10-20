@@ -27,4 +27,3 @@ const tom = new Animal("Tom", 10, "Dog");
 console.log(tom);
 tom.name = "tony";
 //tom.species = "lion "; //Cannot assign to 'species' because it is a read-only property.
-
