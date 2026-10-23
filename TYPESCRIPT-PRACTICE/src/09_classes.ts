@@ -57,3 +57,4 @@ console.log(tony.hungerStatus);
 
 console.log(tom.info) 
 //tom.species = "lion "; //Cannot assign to 'species' because it is a read-only property.
+
