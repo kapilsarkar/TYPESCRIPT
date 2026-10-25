@@ -14,5 +14,6 @@ Additional practice files for reinforcing TypeScript fundamentals, understanding
 | **06.Enums** | Type Script, Enums | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Enums.md) |
 | **07. Type Assertion and DOM** | Type Assertion and DOM | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeAssertion_and_DOM.md) |
 | **08. TypeScript Classes** | TypeScript Classes | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Classes.md) |
+| **09. TypeScript Generics** | TypeScript Generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics.md) |
 
 ---
