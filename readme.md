@@ -35,6 +35,7 @@ Additional practice files for reinforcing TypeScript fundamentals, understanding
 | **07. Type Assertion and DOM** | Type Assertion and DOM | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeAssertion_and_DOM.md) |
 | **08. TypeScript Classes** | TypeScript Classes | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Classes.md) |
 | **09. TypeScript Generics** | TypeScript Generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics.md) |
+| **10. TypeScript Generics Data Fetching** | TypeScript Data Fetching | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics_Data_Fetching.md) |
 
 ---
 
