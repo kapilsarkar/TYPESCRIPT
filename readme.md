@@ -38,6 +38,7 @@ Additional practice files for reinforcing TypeScript fundamentals, understanding
 | **10. TypeScript Generics Data Fetching** | TypeScript Data Fetching | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics_Data_Fetching.md) |
 | **11. TypeScript Utility Types** | TypeScript Utility Types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypesScript_Utility_Types.md) |
 | **12. TypeScript KeyOf Operator** | TypeScript KeyOf Operator | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_KeyOf_TypeOf.md) |
+| **13. React With TypeScript Basics** | React + TypeScrip | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/React_TypeScript_Basics.md) |
 
 ---
 
