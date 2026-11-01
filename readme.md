@@ -22,23 +22,26 @@ A structured, example-driven reference repository designed for mastering TypeScr
 
 ## 🧪 Practice & Revision Guides
 
-Additional practice files for reinforcing TypeScript fundamentals, understanding safe typing, and working with functions.
+Additional practice files for reinforcing TypeScript fundamentals, understanding safe typing, working with functions, and applying TypeScript concepts in React applications.
 
 | **Topic** | **Covered Concepts** | **Link** |
 | :--- | :--- | :--- |
 | **01. TypeScript Fundamentals** | Core TypeScript concepts, type annotations, inference, and fundamental types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Fundamentals.md) |
 | **02. TypeScript `any` vs. `unknown`** | Differences between `any` and `unknown`, type safety, narrowing, and safer handling of unknown values | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Typescript_Any_VS_Unknown.md) |
 | **03. TypeScript Functions** | Function parameters, return types, optional and default parameters, and function typing | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Functions.md) |
-| **04.Types-and-Interfaces** | type, interface, extension, intersection | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Types_%26_Interfaces.md) |
-| **05.Arrays_Tuples** | arrays,tuples | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Arrays_Tuples.md) |
-| **06.Enums** | Type Script, Enums | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Enums.md) |
-| **07. Type Assertion and DOM** | Type Assertion and DOM | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeAssertion_and_DOM.md) |
-| **08. TypeScript Classes** | TypeScript Classes | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Classes.md) |
-| **09. TypeScript Generics** | TypeScript Generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics.md) |
-| **10. TypeScript Generics Data Fetching** | TypeScript Data Fetching | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics_Data_Fetching.md) |
-| **11. TypeScript Utility Types** | TypeScript Utility Types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypesScript_Utility_Types.md) |
-| **12. TypeScript KeyOf Operator** | TypeScript KeyOf Operator | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_KeyOf_TypeOf.md) |
-| **13. React With TypeScript Basics** | React + TypeScrip | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/React_TypeScript_Basics.md) |
+| **04. Types and Interfaces** | Types, interfaces, extension, and intersection | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/Types_%26_Interfaces.md) |
+| **05. Arrays & Tuples** | Arrays and tuples | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Arrays_Tuples.md) |
+| **06. Enums** | TypeScript enums | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Enums.md) |
+| **07. Type Assertion and DOM** | Type assertions and DOM manipulation | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeAssertion_and_DOM.md) |
+| **08. TypeScript Classes** | TypeScript classes | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Classes.md) |
+| **09. TypeScript Generics** | TypeScript generics | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics.md) |
+| **10. TypeScript Generics Data Fetching** | Generic types and data fetching | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_Generics_Data_Fetching.md) |
+| **11. TypeScript Utility Types** | TypeScript utility types | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypesScript_Utility_Types.md) |
+| **12. TypeScript KeyOf Operator** | `keyof` and `typeof` operators | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/TYPESCRIPT-PRACTICE/TypeScript_KeyOf_TypeOf.md) |
+| **13. React with TypeScript Basics** | React components, props, state, interfaces, generics, and type-safe component development | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/React_TypeScript_Basics.md) |
+| **14. React TypeScript Forms** | Type-safe form handling, input elements, event handling, and form data management | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/ReactTypeScript_Form.md) |
+| **15. React TypeScript Custom Hooks** | Creating reusable custom hooks, generic types, `useState`, `useEffect`, and type-safe data fetching | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/React_TypeScript_CustomHook.md) |
+| **16. React TypeScript Props with Children** | Typing component children, props interfaces, reusable components, and React component composition | [Open Guide](https://github.com/kapilsarkar/TYPESCRIPT/blob/main/reactts/React_TypeScript_Props_With_Children.md) |
 
 ---
 
